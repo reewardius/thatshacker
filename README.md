@@ -5,7 +5,7 @@
 
 ### Installations
 ```
-git clone https://github.com/thatshacker/thatshacker.git
+git clone https://github.com/thatshacker/thatshacker
 cd thatshacker
 bash thatshacker.sh
 ```
