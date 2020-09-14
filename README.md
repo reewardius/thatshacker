@@ -11,7 +11,7 @@ bash thatshacker.sh
 ```
 ###  Join Us
 * [youtube] THAT'S HACKER
-* [website](https://thatshacker.blogspot.com/)
+* [website](https://www.thatshacker.com/)
 * [TELEGRAM](https://t.me/joinchat/AAAAAFXzWhNkTMScjxNcyw)
 * [FACEBOOK](https://www.facebook.com/thatshacker9/)
 * [INSTAGRAM](https://www.instagram.com/thatshacker/)
